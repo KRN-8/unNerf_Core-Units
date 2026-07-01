@@ -1,6 +1,7 @@
 # unNerf_Core-Units
-Allow the Alpha, Beta, and Gamma units to damage buildings by removing the 1% damage nerf. 
-Will also make units from modded cores not have building damage penalty as well. 
+Removes the 1% building damage penalty nerf,  
+from all {instanceof CoreBlock} core units  
+(including other mods !).  
 
-## Supporting this mod
-You can offer your support for this mod by giving it a star on this repository !
+## STAR this mod pls. 
+Support this MOD by giving it a STAR on this REPOsitory !  

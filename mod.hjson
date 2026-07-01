@@ -2,13 +2,14 @@ name: "unNerf_Core-Units"
 displayName: "un[red[]]Nerf[[]] Core Units"
 author: "Drullkus, v8 port by: [purple[]]KRN"
 description: '''
-Allow the Alpha, Beta, and Gamma units to damage buildings by removing the 1% damage nerf. 
-Will also make units from modded cores not have building damage penalty as well. 
+Removes the 1% building damage penalty [red[]]nerf[[]], from 
+all {[darkgray[]]instanceof CoreBlock[[]]} core units 
+(including [lime[]]other mods[[]] !). 
 '''
-//subtitle:
-version: "1.1.1"
-minGameVersion: "126"
-/*client sided =*/hidden: false
+subtitle: "[white[]]100%[[]] building [red[]]DMG[[]] !"
+version: "1.2"
+minGameVersion: "154"
+/*client sided =*/hidden: true
 dependencies: [ ]
 hideBrowser: false
 repo: KRN-8/unNerf_Core-Units
